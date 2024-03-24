@@ -1,16 +1,19 @@
 #variables 
 #tipado dinamico el contenido define el tipo
 
-a = 1 #Int
+#Int
+a = 1 
 print(type(a)) 
 
-
-a = "Hello" #Str
+#Str
+a = "Hello" 
 print(type(a))
 
-a = False # bool
+# bool
+a = False 
 print(type(a))
 
-a = 0.1 #Float
+#Float
+a = 0.1 
 print(type(a))
 
